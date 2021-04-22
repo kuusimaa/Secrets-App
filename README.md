@@ -18,7 +18,7 @@ Secrets website where you can upload your secrets anonymously. made in Dr.Angela
 
 
 ## Images
-![Home Page](/images/homePage.PNG?raw=true "Title")
+![Home Page](/images/homePage.PNG?raw=true "Home Page")
 ![secret Page](/images/secretPage.PNG?raw=true "Secrets Page")
 ![Login Page](/images/loginPage.PNG?raw=true "Login Page")
 ![Register Page](/images/registerPage.PNG?raw=true "register Page")
