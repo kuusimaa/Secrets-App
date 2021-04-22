@@ -18,16 +18,10 @@ Secrets website where you can upload your secrets anonymously. made in Dr.Angela
 
 
 ## Images
-![Alt text](/images/homePage.PNG?raw=true "Title")
-![Alt text](/images/secretPage.PNG?raw=true "Title")
-![Alt text](/images/loginPage.PNG?raw=true "Title")
-![Alt text](/images/registerPage.PNG?raw=true "Title")
-
-
-![Home Page](/images/homePage.PNG?raw=true "Home Page")
-![secret Page](/images/secretPage.PNG?raw=true "Secrets Page")
-![Login Page](/images/loginPage.PNG?raw=true "Login Page")
-![Register Page](/images/registerPage.PNG?raw=true "register Page")
+![Home Page](/Images/homePage.PNG?raw=true "Home Page")
+![secret Page](/Images/secretPage.PNG?raw=true "Secrets Page")
+![Login Page](/Images/loginPage.PNG?raw=true "Login Page")
+![Register Page](/Images/registerPage.PNG?raw=true "register Page")
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
